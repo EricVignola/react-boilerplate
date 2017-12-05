@@ -1,0 +1,6 @@
+{
+    //telling babel to use two presets
+    //babel-preset-env and
+    //babel-preset-react
+    "presets": ["env", "react"]
+}
